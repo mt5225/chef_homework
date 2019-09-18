@@ -1,4 +1,3 @@
 # user_mngt
 
-TODO: Enter the cookbook description here.
-
+ - depends_on  [ ``users``, ``ssh_host_keys``]
