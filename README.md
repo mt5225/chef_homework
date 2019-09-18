@@ -21,5 +21,4 @@ Create a handful of user accounts in linux with SSH keys and randomly generated 
 # TODO
 
 - Encryp all data_bag data
-- ``unit test`` with chefspec
 
